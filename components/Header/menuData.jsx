@@ -78,5 +78,17 @@ const menuData = [
       },
     ],
   },
+  {
+    id: 5,
+    title: "Product",
+    path: "/product",
+    newTab: false,
+  },
+  {
+    id: 6,
+    title: "Pricing",
+    path: "/pricing",
+    newTab: false,
+  }
 ];
 export default menuData;
